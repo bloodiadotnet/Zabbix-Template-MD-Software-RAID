@@ -1,8 +1,8 @@
-# Zabbix Template iptables
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-iptables/blob/master/LICENSE)
+# Zabbix Template MD Software RAID
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-MD-Software-RAID/blob/master/LICENSE)
 
 ## Overview
-Monitoring iptables running status and nf_conntrack with Zabbix template.  
+Monitoring software RAID devices status with Zabbix template.  
 
 ## Requires
 ### OS
