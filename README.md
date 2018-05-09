@@ -8,6 +8,9 @@ Monitoring software RAID devices status with Zabbix template.
 ### OS
 - CentOS 5.x - 7.x
 
+### Software RAID
+- Linux Software RAID (Multiple Devices)
+
 ### Zabbix
 - 3.4
 - 4.0
