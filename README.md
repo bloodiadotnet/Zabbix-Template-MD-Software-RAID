@@ -16,10 +16,10 @@ Monitoring software RAID devices status with Zabbix template.
 - 4.0
 
 ## How to Install
-### Install UserParameter Config
+### UserParameter Config
 - Copy "UserParameter Config" file (conf) to /etc/zabbix/zabbix_agentd.d and restart Zabbix agent.  
 
-### Import Template
+### Template
 - Import the template file (xml) and assign it to the host monitored.
 
 ## Author
