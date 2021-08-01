@@ -1,5 +1,5 @@
 # Zabbix Template MD Software RAID
-[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodia/Zabbix-Template-MD-Software-RAID/blob/master/LICENSE)
+[![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](https://github.com/bloodiadotnet/Zabbix-Template-MD-Software-RAID/blob/master/LICENSE)
 
 ## Overview
 Monitoring software RAID devices status with Zabbix template.  
@@ -23,4 +23,4 @@ Monitoring software RAID devices status with Zabbix template.
 - Import the template file (xml) and assign it to the host monitored.
 
 ## Author
-[@bloodia](https://twitter.com/bloodiadotnet)
+[@bloodiadotnet](https://twitter.com/bloodiadotnet)
